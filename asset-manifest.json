@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://adreeja06.github.io/csb-ly6vkn/static/css/main.737b9b19.chunk.css",
+    "main.js": "https://adreeja06.github.io/csb-ly6vkn/static/js/main.e4211456.chunk.js",
+    "main.js.map": "https://adreeja06.github.io/csb-ly6vkn/static/js/main.e4211456.chunk.js.map",
+    "runtime-main.js": "https://adreeja06.github.io/csb-ly6vkn/static/js/runtime-main.225820b9.js",
+    "runtime-main.js.map": "https://adreeja06.github.io/csb-ly6vkn/static/js/runtime-main.225820b9.js.map",
+    "static/css/2.ddc7bfce.chunk.css": "https://adreeja06.github.io/csb-ly6vkn/static/css/2.ddc7bfce.chunk.css",
+    "static/js/2.18c86fa7.chunk.js": "https://adreeja06.github.io/csb-ly6vkn/static/js/2.18c86fa7.chunk.js",
+    "static/js/2.18c86fa7.chunk.js.map": "https://adreeja06.github.io/csb-ly6vkn/static/js/2.18c86fa7.chunk.js.map",
+    "index.html": "https://adreeja06.github.io/csb-ly6vkn/index.html",
+    "static/css/2.ddc7bfce.chunk.css.map": "https://adreeja06.github.io/csb-ly6vkn/static/css/2.ddc7bfce.chunk.css.map",
+    "static/css/main.737b9b19.chunk.css.map": "https://adreeja06.github.io/csb-ly6vkn/static/css/main.737b9b19.chunk.css.map",
+    "static/js/2.18c86fa7.chunk.js.LICENSE.txt": "https://adreeja06.github.io/csb-ly6vkn/static/js/2.18c86fa7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.225820b9.js",
+    "static/css/2.ddc7bfce.chunk.css",
+    "static/js/2.18c86fa7.chunk.js",
+    "static/css/main.737b9b19.chunk.css",
+    "static/js/main.e4211456.chunk.js"
+  ]
+}
